@@ -5,7 +5,7 @@
 
 ![创建 web app](/img/kinto2.PNG)
 
-2. Build Settings 文件名填写Dockerfile，端口填上8888，填写如下：
+2. Build Settings 文件名填写Dockerfile，端口填上9000，填写如下：
 
 ![build](/img/kinto.PNG)
 
